@@ -1,0 +1,15 @@
+.container {
+  background-color: #eeeeee;
+  color: #00adb5;
+  width: 600px;
+  height: 400px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
+}

@@ -1,0 +1,10 @@
+.messageWrapper {
+  width: 200px;
+  margin: 0 auto;
+  padding-left: 10px;
+  border-radius: 5px;
+  border: 1px solid #00adb5;
+}
+.message {
+  color: #393e46;
+}
