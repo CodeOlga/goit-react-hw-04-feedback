@@ -5,8 +5,7 @@ import Statistic from './Statistics/Statistics';
 import Notification from './Notification/Notification';
 import css from './App.module.css';
 
-
-export default function App() {
+const App = () => {
   const [good, setGood] = useState(0);
   const [neutral, setNeutral] = useState(0);
   const [bad, setBad] = useState(0);
@@ -57,6 +56,7 @@ export default function App() {
     )
 }
 
+export default App;
 
 
 
